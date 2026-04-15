@@ -1,1 +1,1 @@
-# C-Users-DELL-OneDrive-Desktop-KODE-loop
+This code is the analysis of car pricing using pandas and numpy in python
